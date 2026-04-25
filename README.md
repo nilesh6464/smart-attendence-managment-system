@@ -257,3 +257,4 @@ npm run dev
 ## ⭐ Final Note
 
 This project focuses on **clean implementation, correctness, and usability** rather than unnecessary complexity.
+# smart-attendence-managment-system
